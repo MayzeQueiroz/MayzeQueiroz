@@ -23,16 +23,12 @@
   <hr>
 
 <div align="center">
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=MayzeQueiroz&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayzeQueiroz&layout=compact&langs_count=6&theme=material-palenight"/>
+  <img width="40%" height="190px" src="https://github-readme-stats.vercel.app/api?username=MayzeQueiroz&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+  <img width="40%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayzeQueiroz&layout=compact&langs_count=6&theme=material-palenight"/>
 </div>
 
 
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MayzeQueiroz&bg_color=000000&color=88dbfc&line=ae82cf&point=fffafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
 
 <p>
 <h3 align="left">Conecte-se comigo  👾 </h3>
@@ -41,7 +37,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/mayze.queiroz/)
 
 </p>
-
 
 </div> 
 
