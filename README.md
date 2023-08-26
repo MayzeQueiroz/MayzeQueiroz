@@ -4,6 +4,7 @@
 <div>
 <h1 align="center"> 
 <a href=https://www.linkedin.com/in/mayze-queiroz/>  Mayze Queiroz  </a> 
+<a href="https://www.linkedin.com/in/mayze-queiroz"target="_blank">github</a>
 </h1>
 
 
