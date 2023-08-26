@@ -4,7 +4,6 @@
 <div>
 <h1 align="center"> 
 <a href=https://www.linkedin.com/in/mayze-queiroz/>  Mayze Queiroz  </a> 
-<a href="https://www.linkedin.com/in/mayze-queiroz"target="_blank">github</a>
 </h1>
 
 
@@ -36,6 +35,10 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/mayze-queiroz/)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/mayze.queiroz/)
+
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](<a href="https://www.linkedin.com/in/mayze-queiroz"target="_blank">github</a>)
+
+<a href="https://www.linkedin.com/in/mayze-queiroz"target="_blank">github</a>
 
 </p>
 
