@@ -4,9 +4,8 @@
 
 <div>
 <h1 align="center"> 
-<a href=https://www.linkedin.com/in/mayze-queiroz/>  Mayze Queiroz  </a> 
+<a href=https://www.linkedin.com/in/mayze-queiroz/>  Mayze Queiroz  </a>
 </h1>
-
 
 <h3> <p align="center"> Desenvolvedor Full Stack | Java | Angular </p> </h3>
 
@@ -29,8 +28,9 @@
 </div>
 
 
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MayzeQueiroz&bg_color=000000&color=88dbfc&line=ae82cf&point=fffafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<hr>
 
 <p>
 <h3 align="left">Conecte-se comigo  👾 </h3>
