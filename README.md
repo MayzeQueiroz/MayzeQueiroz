@@ -23,8 +23,8 @@
   <hr>
 
 <div align="center">
-<img width="42%" height="200px" src="https://github-readme-stats.vercel.app/api?username=MayzeQueiroz&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true&hide_title=true"/>
-  <img width="42%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayzeQueiroz&layout=compact&langs_count=6&theme=material-palenight"/>
+<img width="43%" height="200px" src="https://github-readme-stats.vercel.app/api?username=MayzeQueiroz&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true&hide_title=true"/>
+  <img width="43%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayzeQueiroz&layout=compact&langs_count=6&theme=material-palenight"/>
 </div>
 
 
