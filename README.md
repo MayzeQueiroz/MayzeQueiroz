@@ -1,5 +1,6 @@
 
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://github.com/elidianaandrade/dio-lab-open-source/assets/142460003/e3c72a7a-0b18-4b85-b9e5-9d5855852218)">
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://github.com/elidianaandrade/dio-lab-open-source/assets/142460003/e3c72a7a-0b18-4b85-b9e5-9d5855852218">
+
 
 <div>
 <h1 align="center"> 
@@ -23,9 +24,10 @@
   <hr>
 
 <div align="center">
-<img width="40%" height="190px" src="https://github-readme-stats.vercel.app/api?username=MayzeQueiroz&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true&hide_title=true"/>
-  <img width="40%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayzeQueiroz&layout=compact&langs_count=6&theme=material-palenight"/>
+<img width="42%" height="200px" src="https://github-readme-stats.vercel.app/api?username=MayzeQueiroz&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true&hide_title=true"/>
+  <img width="42%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayzeQueiroz&layout=compact&langs_count=6&theme=material-palenight"/>
 </div>
+
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MayzeQueiroz&bg_color=000000&color=88dbfc&line=ae82cf&point=fffafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
