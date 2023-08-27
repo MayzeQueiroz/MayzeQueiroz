@@ -23,7 +23,7 @@
   <hr>
 
 <div align="center">
-  <img width="40%" height="190px" src="https://github-readme-stats.vercel.app/api?username=MayzeQueiroz&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+<img width="40%" height="190px" src="https://github-readme-stats.vercel.app/api?username=MayzeQueiroz&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true&hide_title=true"/>
   <img width="40%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayzeQueiroz&layout=compact&langs_count=6&theme=material-palenight"/>
 </div>
 
